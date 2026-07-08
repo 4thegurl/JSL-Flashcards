@@ -42,6 +42,8 @@
     {"jp": "故障中", "furigana": "こしょうちゅう", "en": "out of order, under breakdown", "deck": "Vocab"},
     {"jp": "売り切れ", "furigana": "うりきれ", "en": "sold out", "deck": "Vocab"},
     {"jp": "あいにく", "furigana": "あいにく", "en": "unfortunately (flags a coming refusal)", "deck": "Vocab"},
+    {"jp": "踏切", "furigana": "ふみきり", "en": "railroad crossing", "deck": "Vocab"},
+    {"jp": "警報", "furigana": "けいほう", "en": "official warning/alert (weather, disaster, etc. — not a specific device)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

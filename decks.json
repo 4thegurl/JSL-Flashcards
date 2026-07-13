@@ -17,6 +17,7 @@
     {"jp": "〜のところ", "furigana": "〜のところ", "en": "at the moment/point of ~ (お急ぎのところ = while you're in a hurry)", "deck": "Grammar"},
     {"jp": "〜中", "furigana": "〜ちゅう", "en": "currently in a state of ~ (故障中 = out of order)", "deck": "Grammar"},
     {"jp": "さらに", "furigana": "さらに", "en": "furthermore, on top of that (escalation, not simple repetition like また)", "deck": "Grammar"},
+    {"jp": "〜ずに", "furigana": "〜ずに", "en": "without doing ~ (formal/written version of ないで; irregular: する→せずに)", "deck": "Grammar"},
 
     {"jp": "自販機", "furigana": "じはんき", "en": "vending machine (short for 自動販売機)", "deck": "Vocab"},
     {"jp": "変わった", "furigana": "かわった", "en": "unusual, quirky, different from the norm", "deck": "Vocab"},
@@ -44,6 +45,7 @@
     {"jp": "あいにく", "furigana": "あいにく", "en": "unfortunately (flags a coming refusal)", "deck": "Vocab"},
     {"jp": "踏切", "furigana": "ふみきり", "en": "railroad crossing", "deck": "Vocab"},
     {"jp": "警報", "furigana": "けいほう", "en": "official warning/alert (weather, disaster, etc. — not a specific device)", "deck": "Vocab"},
+    {"jp": "渡る", "furigana": "わたる", "en": "to cross (godan verb — neg. stem 渡ら)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

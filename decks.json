@@ -18,6 +18,7 @@
     {"jp": "〜中", "furigana": "〜ちゅう", "en": "currently in a state of ~ (故障中 = out of order)", "deck": "Grammar"},
     {"jp": "さらに", "furigana": "さらに", "en": "furthermore, on top of that (escalation, not simple repetition like また)", "deck": "Grammar"},
     {"jp": "〜ずに", "furigana": "〜ずに", "en": "without doing ~ (formal/written version of ないで; irregular: する→せずに)", "deck": "Grammar"},
+    {"jp": "〜ている途中", "furigana": "〜ているとちゅう", "en": "in the middle of ~ing, partway through (esp. with movement verbs: 帰る途中, 向かっている途中)", "deck": "Grammar"},
 
     {"jp": "自販機", "furigana": "じはんき", "en": "vending machine (short for 自動販売機)", "deck": "Vocab"},
     {"jp": "変わった", "furigana": "かわった", "en": "unusual, quirky, different from the norm", "deck": "Vocab"},

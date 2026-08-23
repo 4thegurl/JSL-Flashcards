@@ -47,6 +47,7 @@
     {"jp": "踏切", "furigana": "ふみきり", "en": "railroad crossing", "deck": "Vocab"},
     {"jp": "警報", "furigana": "けいほう", "en": "official warning/alert (weather, disaster, etc. — not a specific device)", "deck": "Vocab"},
     {"jp": "渡る", "furigana": "わたる", "en": "to cross (godan verb — neg. stem 渡ら)", "deck": "Vocab"},
+    {"jp": "自撮り", "furigana": "じどり", "en": "selfie (自撮りする = to take a selfie)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

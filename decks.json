@@ -61,6 +61,7 @@
     {"jp": "空く", "furigana": "すく", "en": "to empty out, to thin out (crowd, stomach, road)", "deck": "Verbs"},
     {"jp": "離れる", "furigana": "はなれる", "en": "to separate, become apart, be/move distant from (intransitive; pair: 離す)", "deck": "Verbs"},
     {"jp": "離す", "furigana": "はなす", "en": "to separate, let go of something (transitive; pair: 離れる — not 話す 'to speak')", "deck": "Verbs"},
+    {"jp": "下る", "furigana": "くだる", "en": "to descend, go down (a slope/river/road) — opposite of 上る(のぼる); distinct from 下りる(おりる, get off/down from something) and 下がる(さがる, to drop/decrease)", "deck": "Verbs"},
 
     {"jp": "そんなはずはない", "furigana": "そんなはずはない", "en": "that can't be right / no way", "deck": "Expressions"},
     {"jp": "もうちょっと", "furigana": "もうちょっと", "en": "just a little more / a bit further", "deck": "Expressions"},

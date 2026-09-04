@@ -23,6 +23,7 @@
     {"jp": "きっと", "furigana": "きっと", "en": "surely, certainly, I bet (confident prediction — weaker than 絶対, stronger than たぶん)", "deck": "Grammar"},
     {"jp": "〜からすると", "furigana": "〜からすると", "en": "judging from ~, from the standpoint of ~ (own inference — contrast 〜によると 'according to' a reported source)", "deck": "Grammar"},
     {"jp": "ちょうど", "furigana": "ちょうど", "en": "exactly, precisely, just right (ちょうどいい = just right/perfect fit; ちょうど今 = just now, coincidentally)", "deck": "Grammar"},
+    {"jp": "たった／わずか", "furigana": "たった／わずか", "en": "only, merely, just (a small amount) — たった is casual/spoken, わずか is formal/written", "deck": "Grammar"},
 
     {"jp": "自販機", "furigana": "じはんき", "en": "vending machine (short for 自動販売機)", "deck": "Vocab"},
     {"jp": "変わった", "furigana": "かわった", "en": "unusual, quirky, different from the norm", "deck": "Vocab"},

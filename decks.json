@@ -59,6 +59,7 @@
     {"jp": "大切", "furigana": "たいせつ", "en": "important, precious, cherished (na-adj; 大切な人 = someone dear; contrast 重要 = objective importance)", "deck": "Vocab"},
     {"jp": "直行便", "furigana": "ちょっこうびん", "en": "direct/nonstop flight (opposite: 乗り継ぎ便 = connecting flight)", "deck": "Vocab"},
     {"jp": "直行", "furigana": "ちょっこう", "en": "going directly, nonstop (general — not flight-specific)", "deck": "Vocab"},
+    {"jp": "瞬間", "furigana": "しゅんかん", "en": "moment, instant (〜た瞬間 = the moment that ~ happened)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

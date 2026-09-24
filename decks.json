@@ -60,6 +60,7 @@
     {"jp": "直行便", "furigana": "ちょっこうびん", "en": "direct/nonstop flight (opposite: 乗り継ぎ便 = connecting flight)", "deck": "Vocab"},
     {"jp": "直行", "furigana": "ちょっこう", "en": "going directly, nonstop (general — not flight-specific)", "deck": "Vocab"},
     {"jp": "瞬間", "furigana": "しゅんかん", "en": "moment, instant (〜た瞬間 = the moment that ~ happened)", "deck": "Vocab"},
+    {"jp": "親戚", "furigana": "しんせき", "en": "relative(s), kin — extended family (contrast 家族 = immediate family/household)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

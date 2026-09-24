@@ -57,6 +57,8 @@
     {"jp": "常識", "furigana": "じょうしき", "en": "common sense, general knowledge (negation 非常識 = outrageous, inconsiderate)", "deck": "Vocab"},
     {"jp": "機嫌", "furigana": "きげん", "en": "mood, temper (universal, not baby-specific; 機嫌がいい/悪い = in a good/bad mood; 機嫌を取る = to appease someone's mood)", "deck": "Vocab"},
     {"jp": "大切", "furigana": "たいせつ", "en": "important, precious, cherished (na-adj; 大切な人 = someone dear; contrast 重要 = objective importance)", "deck": "Vocab"},
+    {"jp": "直行便", "furigana": "ちょっこうびん", "en": "direct/nonstop flight (opposite: 乗り継ぎ便 = connecting flight)", "deck": "Vocab"},
+    {"jp": "直行", "furigana": "ちょっこう", "en": "going directly, nonstop (general — not flight-specific)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},

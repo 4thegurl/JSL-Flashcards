@@ -64,6 +64,7 @@
     {"jp": "機械", "furigana": "きかい", "en": "machine, mechanism (general/abstract concept — specific machines use compound -機 words instead)", "deck": "Vocab"},
     {"jp": "券売機", "furigana": "けんばいき", "en": "ticket vending machine (train tickets, or ramen-shop ticket machines)", "deck": "Vocab"},
     {"jp": "タッチパネル", "furigana": "タッチパネル", "en": "self-order kiosk / touch panel (e.g. McDonald's-style ordering)", "deck": "Vocab"},
+    {"jp": "夜市", "furigana": "よいち", "en": "night market (Taiwan/HK-style; Japan's equivalent concept is 屋台/夜店 — individual festival food stalls)", "deck": "Vocab"},
 
     {"jp": "借りる", "furigana": "かりる", "en": "to borrow, to rent", "deck": "Verbs"},
     {"jp": "決める", "furigana": "きめる", "en": "to decide", "deck": "Verbs"},
